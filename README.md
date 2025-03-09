@@ -21,6 +21,10 @@ The SE-Assignment2 project is a simple Python-based interactive program that ask
 4. push changes to Github repository: git push origin new-feature
 5. Create a pull request on Github
 
+## Issues
+1. Improve user input validation
+2. Enhance greeting message
+
 ## Author
-Github: DillanBanes227
 Email: dbarnes34@pvamu.edu
+GitHub: DillanBanes227
