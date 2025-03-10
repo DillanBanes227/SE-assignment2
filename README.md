@@ -26,5 +26,4 @@ The SE-Assignment2 project is a simple Python-based interactive program that ask
 2. Enhance greeting message
 
 ## Author
-Github: DillanBanes227
 Email: dbarnes34@pvamu.edu
